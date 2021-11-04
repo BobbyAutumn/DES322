@@ -1,1 +1,2 @@
 # DES322
+"BobbyBakery" is an online bakery which have various types of product with the finest quality. My purpose is to make my customers receive the best quality of pastries with a reasonable price and convenience. Customer also can order an customizable cake for their special event. "BobbyBakery" also have a lot of campaigns such as croissant festival which have a special discount in that product.
